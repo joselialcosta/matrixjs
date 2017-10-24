@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/carlosmaniero/matrixjs#readme",
   "dependencies": {
+    "chai": "^4.1.2",
     "mocha": "^4.0.0"
   }
 }
